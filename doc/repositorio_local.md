@@ -15,3 +15,4 @@ git config --global user.email "tu_email@dominio.com"
 - Utilizamos el comando git init para empezar el repositorio
 
 ![alt text](<../images/inicio de sesion.png>)
+![alt text](<../images/Captura de pantalla 2025-07-24 113713.png>)
