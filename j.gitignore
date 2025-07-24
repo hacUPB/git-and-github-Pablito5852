@@ -1,0 +1,58 @@
+# Entornos virtuales
+venv/
+.env/
+ENV/
+env.bak/
+venv.bak/
+
+# Archivos Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuración de entorno y editor
+*.env
+*.env.*
+*.vscode/
+.idea/
+*.swp
+
+# Logs y archivos temporales
+*.log
+*.tmp
+*.bak
+*.orig
+*.rej
+
+# Archivos de tests
+coverage.xml
+*.cover
+.cache/
+.tox/
+.nox/
+
+# Informes de pruebas
+htmlcov/
+.coverage
+nosetests.xml
+test-results/
+
+# Distribución / compilación
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Dependencias externas
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Mac OS
+.DS_Store
+
+# Linux
+*.~ 

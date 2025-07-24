@@ -1,7 +1,8 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SoiS0_7u)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante:  Juan Pablo Gómez Taborda
+Id.:000575638  
 ---
 # Evaluación
 
@@ -64,10 +65,12 @@ El objetivo de esta actividad es crear y estructurar un proyecto de programació
     Investiga qué es un archivo `.gitignore` y cuál es su función dentro de un proyecto de programación. Crea el archivo `.gitignore` y guárdalo en a tu repositorio. Ahora, según la consulta que hiciste, escribe en él, los nombres de archivos y carpetas que quieres ignorar. Pregunta al profesor en caso de dudas.
     
 4. **Documentación:**
-    - Dentro de la carpeta `docs`, crea los siguientes archivos de tipo Markdown (.md):
-        - `uso_consola.md`: Describe los conceptos aprendidos sobre cómo usar la consola para navegar y crear directorios y archivos. Haz un listado de los principales comandos utilizados en esta unidad.
-        - `repositorio_local.md`: Explica cómo crear un repositorio local con comandos de Git.
-        - `repositorio_remoto.md`: Detalla el proceso para crear un repositorio remoto en GitHub y sincronizarlo con el repositorio local.
+   
+ | Archivo | Descripción |
+|--------|-------------|
+| [repositorio_local.md](docs/repositorio_local.md)   | Cómo crear y manejar un repositorio local con Git |
+| [repositorio_remoto.md](doc/repositorio_remoto.md) | Cómo conectar y sincronizar con un repositorio remoto en GitHub |
+| [uso_consola.md](docs/uso_consola.md)               | Comandos básicos para navegar y crear archivos desde la consola |
 5. **Archivo README.md:**
     - En la raíz del proyecto, encontrarás un archivo `README.md`, es este mismo que estás leyendo. Lo vas a editar y vas a incluir al inicio del archivo la siguiente información:
         - Una breve descripción del contenido de tu repositorio. Recuerda que los archivos README.md están ahí para explicarle a las personas que vean tu repositorio, de qué se trata y qué contiene.
