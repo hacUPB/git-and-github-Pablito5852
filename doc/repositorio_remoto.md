@@ -8,3 +8,4 @@
  - Para verificar que funcionó ingresamos el codigo: git remote -v
  ![alt text](<../images/repositorio remoto.png>)
  ![alt text](<../images/Captura de pantalla 2025-07-24 113713.png>)
+ ![alt text](<../images/Captura de pantalla 2025-07-24 122824.png>)
