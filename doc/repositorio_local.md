@@ -13,3 +13,5 @@ git config --global user.email "tu_email@dominio.com"
 - ingresamos a la carpeta creada con el comando cd "nombre de la carpeta"
 
 - Utilizamos el comando git init para empezar el repositorio
+
+![alt text](<../images/inicio de sesion.png>)

@@ -6,3 +6,6 @@
 - Touch: creacion de un archivo
 - cd "": Ingresar desde la consola a un arcgivo, carpeta... etc
 - cd ..: Para salir de el lugar donde te encuentras en la consola
+- git add "": para agragar un archivo que fue modificado
+- git commit -m: para realizar el commit del repositorio
+![alt text](../images/commit.png)
