@@ -6,3 +6,5 @@
  - en la consola de git bash ingresamos el codigo: git remote add origin https://github.com/tu-usuario/mi-primer-proyecto.git
 
  - Para verificar que funcionó ingresamos el codigo: git remote -v
+ ![alt text](<../images/repositorio remoto.png>)
+ ![alt text](<../images/Captura de pantalla 2025-07-24 113713.png>)
